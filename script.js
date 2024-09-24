@@ -6,4 +6,5 @@ function calculateSavings() {
 
     if (usage && rate && sunlight) {
         const monthlyCost = usage * rate;
-       
+    }
+}
